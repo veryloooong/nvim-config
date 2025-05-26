@@ -7,7 +7,6 @@ return {
         "lua_ls", -- Lua
         "pyright", -- Python
         "tsserver", -- TypeScript / JavaScript
-        "rust_analyzer",
       },
       automatic_installation = true,
     },
